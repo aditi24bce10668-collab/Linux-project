@@ -1,10 +1,10 @@
 #!/bin/bash
 # script 1: System info
-# Author: Aditya Anil Tiwari
-# Reg: 24BSA10166
+# Author: Aditi Shukla
+# Reg: 24BCE10668
 
-STUDENT_NAME="Aditya Anil Tiwari"
-REG_NUMBER="24BSA10166"
+STUDENT_NAME="Aditi Shukla"
+REG_NUMBER="24BCE10668"
 SOFTWARE="VLC Media Player"
 
 echo "=== System Identity Report ==="
