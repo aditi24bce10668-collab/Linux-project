@@ -2,9 +2,9 @@
 
 ## 1. Cover Page
 - **Project Title:** The Open Source Audit
-- **Name:** Aditya Anil Tiwari
-- **Registration Number:** 24BSA10166
-- **Slot:** c11
+- **Name:** Aditi Shukla
+- **Registration Number:** 24BCE10668
+- **Slot:** D11
 - **Date:** 30/03/2026
 - **Selected Software:** VLC Media Player
 - **Course:** Open Source Software (VITyarthi)
