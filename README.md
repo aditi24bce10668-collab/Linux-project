@@ -1,8 +1,8 @@
 # Open Source Audit: VLC Media Player
 
 **Course:** Open Source Software (NGMC)
-**Student:** Aditya Anil Tiwari | **Registration:** 24BSA10166
-**Slot:** c11 | **Date:** 30/03/2026
+**Student:** Aditi Shukla| **Registration:** 24BCE10668
+**Slot:** D11 | **Date:** 30/03/2026
 
 ## Why VLC?
 I chose VLC Media Player for this audit because of its awesome history starting as a student project at a French university. It also has an interesting dual-license setup (GPL for the app, LGPL for the core engine) and is one of the most downloaded open-source apps ever.
