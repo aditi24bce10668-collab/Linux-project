@@ -11,7 +11,7 @@ I chose VLC Media Player for this audit because of its awesome history starting 
 
 ## What's in this repo?
 ```text
-oss-audit-24BSA10166/
+oss-audit-24BCE10668/
 │
 ├── README.md                          <-- You're reading this
 │
@@ -23,7 +23,7 @@ oss-audit-24BSA10166/
 │   └── script5_manifesto_generator.sh <-- Generates an open-source manifesto
 │
 └── report/
-    └── OSS_Audit_24BSA10166.pdf       <-- Final project report 
+    └── OSS_Audit_24BCE10668.pdf       <-- Final project report 
 ```
 
 ---
@@ -57,8 +57,8 @@ An interactive script! It asks you 3 quick questions using `read -p`. Based on w
 ### Steps
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/AdityaTiwari64/oss-audit-24BSA10166.git
-   cd oss-audit-24BSA10166/scripts
+   git clone https://github.com/aditi24bce10668/oss-audit-24BCE10668.git
+   cd oss-audit-24BCE10668/scripts
    ```
 
 2. **Give them execute permissions:**
